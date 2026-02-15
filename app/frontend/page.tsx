@@ -258,7 +258,7 @@ export default function FrontendPage() {
             </section>
 
             {/* About Me */}
-            <section id="about-frontend" className="mt-4 px-2 sm:px-4 md:px-12 pb-8">
+            <section id="about" className="mt-4 px-2 sm:px-4 md:px-12 pb-8">
                 <h2 className="text-xl sm:text-2xl md:text-3xl font-bold mb-3">About Me</h2>
 
                 <div className="flex flex-col md:flex-row gap-8 md:gap-12 items-center md:items-center">
